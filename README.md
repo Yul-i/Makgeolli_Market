@@ -24,5 +24,8 @@
 * 웹 사이트(Web site)
 * ![JSP](https://img.shields.io/badge/-JSP-blue) ![JAVA](https://img.shields.io/badge/-java-blueviolet) ![MySQL](https://img.shields.io/badge/-MySQL-ff69b4) ![Html5](https://img.shields.io/badge/HTML5-red) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![javascript](https://img.shields.io/badge/JavaScript-yellow) ![jquery](https://img.shields.io/badge/jQuery-orange) ![AJAX](https://img.shields.io/badge/-AJAX-critical)
 
+### 5)전체 순서도
+![전체 순서도](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeP2fSP%2FbtrcgP8OZNV%2FvUll6jtJO9kXHWluIbDaB1%2Fimg.png)
+
 ### 6)View
 ![막컬리 메인](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcuFm5M%2Fbtrb7uDBxQ0%2F2D0K5kPTPAcbnDPVzv5DQ0%2Fimg.png)
